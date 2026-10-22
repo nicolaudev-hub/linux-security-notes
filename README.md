@@ -1,4 +1,4 @@
-# Notas de Segurança Linux
+# Notas de Linux
 
 Repositório criado para documentar meus estudos em:
 
