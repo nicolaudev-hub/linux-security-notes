@@ -3,7 +3,12 @@
 ## Visualizar permissões
 
 ```bash
-ls -l
+ls --> Lista o conteúdo do diretório
+ls -l --> Lista os arquivos por linha 
+ls -r --> inverte a ordem de seleção 
+ls -a --> Lista os arquivos ocultos 
+ls|more --> Lista pausadamente os arquivos
+ls *.extensão_do_arquivo --> Lista somente arquivos com uma extensão
 ```
 
 ## Alterar permissões
